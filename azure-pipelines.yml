@@ -10,7 +10,7 @@ pool:
   vmImage: ubuntu-latest
 
 steps:
-- script: echo Hello, worldTestPipline 楊振波12345
+- script: echo Hello, worldTestPipline 楊振波12345  test_20240907
   displayName: 'Run a one-line script'
 
 - script: |
